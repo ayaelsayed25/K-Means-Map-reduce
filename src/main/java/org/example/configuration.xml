@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<configuration>
+    <property>
+        <name>dataset.records</name>
+        <value>180</value>
+        <description>Number of records in the dataset</description>
+    </property>
+    <property>
+        <name>k</name>
+        <value>3</value>
+        <description>Number of centroids</description>
+    </property>
+    <property>
+        <name>threshold</name>
+        <value>0.05</value>
+        <description>Threshold for the stopping criterion</description>
+    </property>
+    <property>
+        <name>max.iteration</name>
+        <value>30</value>
+        <description>Maximum number of iteration</description>
+    </property>
+</configuration>
